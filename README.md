@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Selenium, Gherkin & Python**
 
-- 📝 I regularly write articles on [https://idoru.gr/](https://idoru.gr/)
+- 📝 I regularly write articles on [https://alttab.gr/](https://alttab.gr/)
 
 - 📫 How to reach me **https://linktr.ee/PanosD**
 
