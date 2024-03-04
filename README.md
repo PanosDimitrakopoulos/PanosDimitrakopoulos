@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I'm Panos Dimitrakopoulos</h1>
 <h3 align="center">An ISTQB Certified Software Tester from Greece. I consider myself to be truly passionate about my work and I'm always eager to connect with other professionals. </h3>
-<img align="right" alt="Coding" width=450 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
+<img align="right" alt="Coding" width=450 src="https://cdni.iconscout.com/illustration/premium/thumb/coding-4468578-3783951.png?f=webp" >
 
 
 - 🌱 I’m currently learning **Selenium, Gherkin & Python**
-
-- 📝 I regularly write articles on [https://alttab.gr/](https://alttab.gr/)
+-
+- - 📝 I regularly write articles on [https://alttab.gr/](https://alttab.gr/)
 
 - 📫 How to reach me **https://linktr.ee/PanosD**
 
